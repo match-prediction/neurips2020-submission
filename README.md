@@ -20,7 +20,7 @@ torch >= 0.4.0
 
 $ python train_script_synthetic_data.py
 
-2. Reproduc real-world data experiment result:
+2. Reproduce real-world data experiment result:
 
 $ python train_script_real_world_data.py	
  
